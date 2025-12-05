@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Referencing.md",
+                "file": "Python/Call by Reference or Value.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Referencing"
+              "title": "Call by Reference or Value"
             }
           }
         ],
@@ -200,13 +200,20 @@
   },
   "active": "e78de067e5012fe3",
   "lastOpenFiles": [
-    "C++/Smart Pointers.md",
+    "Python/Objects.md",
+    "Python/Call by Reference or Value.md",
+    "Welcome.md",
+    "Python",
+    "CompetitiveProgramming/LRU & LFU Cache.md",
+    "C++/Scope Resolution Operator.md",
+    "CompetitiveProgramming",
+    "C++/Value Categories.md",
     "C++/Referencing.md",
+    "C++/Smart Pointers.md",
     "C++/Classes.md",
     "C++/Unions.md",
     "C++/Valgrind.md",
     "C++/Untitled",
-    "Welcome.md",
     "C++.md",
     "C++"
   ]
