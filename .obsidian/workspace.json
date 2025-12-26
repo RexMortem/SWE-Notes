@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Call by Reference or Value.md",
+                "file": "LeetCode/LinkedLists/21 - Merge Two Sorted Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Call by Reference or Value"
+              "title": "21 - Merge Two Sorted Lists"
             }
           }
         ],
@@ -211,8 +211,12 @@
   },
   "active": "e78de067e5012fe3",
   "lastOpenFiles": [
-    "Python/Objects.md",
+    "LeetCode/LinkedLists/206 - Reverse Linked List.md",
+    "LeetCode/LinkedLists/21 - Merge Two Sorted Lists.md",
     "Python/Call by Reference or Value.md",
+    "LeetCode/LinkedLists",
+    "LeetCode",
+    "Python/Objects.md",
     "Welcome.md",
     "Python",
     "CompetitiveProgramming/LRU & LFU Cache.md",
