@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/LinkedLists/2 - Add Two Numbers.md",
+                "file": "LeetCode/Trees/572 - Subtree of Another Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Add Two Numbers"
+              "title": "572 - Subtree of Another Tree"
             }
           }
         ],
@@ -211,9 +211,16 @@
   },
   "active": "e78de067e5012fe3",
   "lastOpenFiles": [
-    "LeetCode/LinkedLists/206 - Reverse Linked List.md",
+    "LeetCode/Trees/100 - Same Tree.md",
+    "LeetCode/Trees/572 - Subtree of Another Tree.md",
+    "LeetCode/Trees/110 - Balanced Binary Tree.md",
+    "LeetCode/Trees/543 - Diameter of a Binary Tree.md",
+    "LeetCode/Trees/104 - Maximum Depth of Binary Tree.md",
+    "LeetCode/Trees/226 - Invert Binary Tree.md",
     "LeetCode/LinkedLists/21 - Merge Two Sorted Lists.md",
     "LeetCode/LinkedLists/2 - Add Two Numbers.md",
+    "LeetCode/LinkedLists/206 - Reverse Linked List.md",
+    "LeetCode/Trees",
     "Python/Call by Reference or Value.md",
     "LeetCode/LinkedLists",
     "LeetCode",
