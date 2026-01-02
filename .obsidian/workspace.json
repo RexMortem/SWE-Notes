@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Trees/572 - Subtree of Another Tree.md",
-                "mode": "source",
+                "file": "LeetCode/LinkedLists/141 - Linked List Cycle.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "572 - Subtree of Another Tree"
+              "title": "141 - Linked List Cycle"
             }
           }
         ],
@@ -211,13 +211,16 @@
   },
   "active": "e78de067e5012fe3",
   "lastOpenFiles": [
-    "LeetCode/Trees/100 - Same Tree.md",
-    "LeetCode/Trees/572 - Subtree of Another Tree.md",
-    "LeetCode/Trees/110 - Balanced Binary Tree.md",
-    "LeetCode/Trees/543 - Diameter of a Binary Tree.md",
-    "LeetCode/Trees/104 - Maximum Depth of Binary Tree.md",
-    "LeetCode/Trees/226 - Invert Binary Tree.md",
     "LeetCode/LinkedLists/21 - Merge Two Sorted Lists.md",
+    "LeetCode/LinkedLists/141 - Linked List Cycle.md",
+    "LeetCode/Stack/20 - Valid Parentheses.md",
+    "LeetCode/Trees/100 - Same Tree.md",
+    "LeetCode/Stack",
+    "LeetCode/Trees/572 - Subtree of Another Tree.md",
+    "LeetCode/Trees/543 - Diameter of a Binary Tree.md",
+    "LeetCode/Trees/226 - Invert Binary Tree.md",
+    "LeetCode/Trees/110 - Balanced Binary Tree.md",
+    "LeetCode/Trees/104 - Maximum Depth of Binary Tree.md",
     "LeetCode/LinkedLists/2 - Add Two Numbers.md",
     "LeetCode/LinkedLists/206 - Reverse Linked List.md",
     "LeetCode/Trees",
