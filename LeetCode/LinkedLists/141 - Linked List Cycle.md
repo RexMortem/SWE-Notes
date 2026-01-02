@@ -33,11 +33,13 @@ https://leetcode.com/problems/linked-list-cycle/description/
 >         return False
 > ```
 
-> [!info]- Why does Floyd's work? (Intuition)
+> [!info]- Why does Floyd's work? (Intuition w/ informal proof)
 > 
 > If there isn't a cycle, the fast pointer will exit the list at some point.
 > 
-> If there is a cycle, eventually the slow pointer and the fast pointer will be in the cycle (of length $\lambda$) together. There is going to be some gap $\epsilon$ between the slow pointer and the fast pointer - specifically this gap will refer to the number of nodes the fast pointer needs to traverse to get to the slow pointer. Note $\epsilon < \lambda$ since the biggest gap in a cycle is one less than its length. 
+> If there is a cycle, we'll show that the fast pointer will lap the slow pointer. 
+> 
+> Eventually the slow pointer and the fast pointer will be in the cycle (of length $\lambda$) together. There is going to be some gap $\epsilon$ between the slow pointer and the fast pointer - specifically this gap will refer to the number of nodes the fast pointer needs to traverse to get to the slow pointer. Note $\epsilon < \lambda$ since the biggest gap in a cycle is one less than its length. 
 > 
 > If $\epsilon = 0$ then great! The slow pointer is at the same node at the fast pointer. 
 > 

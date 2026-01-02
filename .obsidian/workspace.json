@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/LinkedLists/141 - Linked List Cycle.md",
-                "mode": "preview",
+                "file": "LeetCode/TwoPointers/125 - Valid Palindrome.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "141 - Linked List Cycle"
+              "title": "125 - Valid Palindrome"
             }
           }
         ],
@@ -211,8 +211,13 @@
   },
   "active": "e78de067e5012fe3",
   "lastOpenFiles": [
-    "LeetCode/LinkedLists/21 - Merge Two Sorted Lists.md",
+    "LeetCode/LinkedLists/19 - Remove Nth Node From End of List.md",
+    "LeetCode/TwoPointers/125 - Valid Palindrome.md",
+    "LeetCode/TwoPointers",
+    "LeetCode/Untitled.md",
+    "LeetCode/LinkedLists/143 - Reorder List.md",
     "LeetCode/LinkedLists/141 - Linked List Cycle.md",
+    "LeetCode/LinkedLists/21 - Merge Two Sorted Lists.md",
     "LeetCode/Stack/20 - Valid Parentheses.md",
     "LeetCode/Trees/100 - Same Tree.md",
     "LeetCode/Stack",
@@ -240,7 +245,6 @@
     "C++/Unions.md",
     "C++/Valgrind.md",
     "C++/Untitled",
-    "C++.md",
     "C++"
   ]
 }
