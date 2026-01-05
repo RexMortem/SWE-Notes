@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/NeetCode150/Backtracking/78 - Subsets.md",
-                "mode": "source",
+                "file": "LeetCode/NeetCode150/BitManipulation/136 - Single Number.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "78 - Subsets"
+              "title": "136 - Single Number"
             }
           }
         ],
@@ -209,12 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64170398b5a8d9ba",
+  "active": "e78de067e5012fe3",
   "lastOpenFiles": [
+    "LeetCode/NeetCode150/Backtracking/78 - Subsets.md",
+    "LeetCode/NeetCode150/BitManipulation/136 - Single Number.md",
     "LeetCode/NeetCode150",
     "LeetCode/NeetCode150/BitManipulation",
     "LeetCode/NeetCode150/TwoPointers/125 - Valid Palindrome.md",
-    "LeetCode/NeetCode150/Backtracking/78 - Subsets.md",
     "LeetCode/NeetCode150/Backtracking",
     "LeetCode/NeetCode150/LinkedLists/19 - Remove Nth Node From End of List.md",
     "LeetCode/NeetCode150/TwoPointers",
@@ -245,7 +246,6 @@
     "C++/Value Categories.md",
     "C++/Referencing.md",
     "C++/Smart Pointers.md",
-    "C++/Classes.md",
-    "C++/Untitled"
+    "C++/Classes.md"
   ]
 }
