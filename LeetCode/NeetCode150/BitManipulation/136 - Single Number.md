@@ -1,3 +1,4 @@
+https://leetcode.com/problems/single-number/
 
 > [!tip]- Hint 1: Solution with O(n) space 
 > We can use a HashSet to create a fast (O(n)) solution but which has O(n) space. 
