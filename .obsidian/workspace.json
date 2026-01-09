@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/NeetCode150/BitManipulation/191 - Number of 1 Bits.md",
-                "mode": "preview",
+                "file": "LeetCode/To-Do LC Notes.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "191 - Number of 1 Bits"
+              "title": "To-Do LC Notes"
             }
           }
         ],
@@ -211,8 +211,13 @@
   },
   "active": "e78de067e5012fe3",
   "lastOpenFiles": [
-    "LeetCode/NeetCode150/BitManipulation/136 - Single Number.md",
+    "Python/To-Do Python Notes.md",
+    "LeetCode/To-Do LC Notes.md",
+    "LeetCode/NeetCode150/Trees/Common Tree Traversals and Tricks.md",
+    "Python/Scoping.md",
+    "LeetCode/NeetCode150/BitManipulation/Bit Tricks.md",
     "LeetCode/NeetCode150/BitManipulation/191 - Number of 1 Bits.md",
+    "LeetCode/NeetCode150/BitManipulation/136 - Single Number.md",
     "LeetCode/NeetCode150/Backtracking/78 - Subsets.md",
     "LeetCode/NeetCode150",
     "LeetCode/NeetCode150/BitManipulation",
@@ -220,7 +225,6 @@
     "LeetCode/NeetCode150/Backtracking",
     "LeetCode/NeetCode150/LinkedLists/19 - Remove Nth Node From End of List.md",
     "LeetCode/NeetCode150/TwoPointers",
-    "LeetCode/Untitled.md",
     "LeetCode/NeetCode150/LinkedLists/143 - Reorder List.md",
     "LeetCode/NeetCode150/LinkedLists/141 - Linked List Cycle.md",
     "LeetCode/NeetCode150/LinkedLists/21 - Merge Two Sorted Lists.md",
@@ -242,10 +246,6 @@
     "Welcome.md",
     "Python",
     "CompetitiveProgramming/LRU & LFU Cache.md",
-    "C++/Scope Resolution Operator.md",
-    "CompetitiveProgramming",
-    "C++/Value Categories.md",
-    "C++/Referencing.md",
-    "C++/Smart Pointers.md"
+    "CompetitiveProgramming"
   ]
 }
