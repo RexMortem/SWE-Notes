@@ -1,0 +1,1 @@
+Collection of notes on Software Engineering and associated fields with a particularly large chunk dedicated to Competitive Programming and LeetCode.
