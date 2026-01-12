@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Trees/865 - Smallest Subtree with all the deepest nodes.md",
-                "mode": "source",
+                "file": "LeetCode/Geometry/1266 - Minimum Time Visiting All Points.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "865 - Smallest Subtree with all the deepest nodes"
+              "title": "1266 - Minimum Time Visiting All Points"
             }
           }
         ],
@@ -209,11 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64170398b5a8d9ba",
+  "active": "e78de067e5012fe3",
   "lastOpenFiles": [
+    "LeetCode/Trees/865 - Smallest Subtree with all the deepest nodes.md",
+    "LeetCode/Geometry/1266 - Minimum Time Visiting All Points.md",
+    "LeetCode/Geometry",
     "LeetCode/TwoPointers/NeetCode150",
     "LeetCode/Trees/NeetCode150/100 - Same Tree.md",
-    "LeetCode/Trees/865 - Smallest Subtree with all the deepest nodes.md",
     "LeetCode/LinkedLists/NeetCode150/2 - Add Two Numbers.md",
     "LeetCode/Trees/NeetCode150",
     "LeetCode/Stack/NeetCode150",
@@ -236,12 +238,10 @@
     "LeetCode/TwoPointers/NeetCode150/125 - Valid Palindrome.md",
     "LeetCode/Backtracking",
     "LeetCode/LinkedLists/NeetCode150/19 - Remove Nth Node From End of List.md",
-    "LeetCode/TwoPointers",
     "LeetCode/LinkedLists/NeetCode150/143 - Reorder List.md",
     "LeetCode/LinkedLists/NeetCode150/141 - Linked List Cycle.md",
     "LeetCode/LinkedLists/NeetCode150/21 - Merge Two Sorted Lists.md",
     "LeetCode/Stack/NeetCode150/20 - Valid Parentheses.md",
-    "LeetCode/Stack",
     "LeetCode/Trees/NeetCode150/572 - Subtree of Another Tree.md",
     "LeetCode/Trees/NeetCode150/543 - Diameter of a Binary Tree.md",
     "LeetCode/Trees/NeetCode150/226 - Invert Binary Tree.md",
