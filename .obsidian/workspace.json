@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Geometry/1266 - Minimum Time Visiting All Points.md",
-                "mode": "preview",
+                "file": "LeetCode/Backtracking/NeetCode150/78 - Subsets.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1266 - Minimum Time Visiting All Points"
+              "title": "78 - Subsets"
             }
           }
         ],
@@ -211,8 +211,8 @@
   },
   "active": "e78de067e5012fe3",
   "lastOpenFiles": [
-    "LeetCode/Trees/865 - Smallest Subtree with all the deepest nodes.md",
     "LeetCode/Geometry/1266 - Minimum Time Visiting All Points.md",
+    "LeetCode/Trees/865 - Smallest Subtree with all the deepest nodes.md",
     "LeetCode/Geometry",
     "LeetCode/TwoPointers/NeetCode150",
     "LeetCode/Trees/NeetCode150/100 - Same Tree.md",
