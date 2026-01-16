@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Backtracking/NeetCode150/46 - Permutations.md",
+                "file": "LeetCode/BinarySearch/3453 - Separate Squares I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "46 - Permutations"
+              "title": "3453 - Separate Squares I"
             }
           }
         ],
@@ -211,8 +211,12 @@
   },
   "active": "e78de067e5012fe3",
   "lastOpenFiles": [
-    "LeetCode/Backtracking/NeetCode150/78 - Subsets.md",
+    "Rust/Ownership.md",
+    "LeetCode/BinarySearch/3453 - Separate Squares I.md",
+    "LeetCode/BinarySearch",
     "LeetCode/Backtracking/NeetCode150/46 - Permutations.md",
+    "Rust",
+    "LeetCode/Backtracking/NeetCode150/78 - Subsets.md",
     "LeetCode/Geometry/1266 - Minimum Time Visiting All Points.md",
     "LeetCode/Trees/865 - Smallest Subtree with all the deepest nodes.md",
     "LeetCode/Geometry",
@@ -235,17 +239,13 @@
     "LeetCode/BitManipulation/NeetCode150/Bit Tricks.md",
     "LeetCode/BitManipulation/NeetCode150/191 - Number of 1 Bits.md",
     "LeetCode/NeetCode150",
-    "LeetCode/BitManipulation",
     "LeetCode/TwoPointers/NeetCode150/125 - Valid Palindrome.md",
-    "LeetCode/Backtracking",
     "LeetCode/LinkedLists/NeetCode150/19 - Remove Nth Node From End of List.md",
     "LeetCode/LinkedLists/NeetCode150/143 - Reorder List.md",
     "LeetCode/LinkedLists/NeetCode150/141 - Linked List Cycle.md",
     "LeetCode/LinkedLists/NeetCode150/21 - Merge Two Sorted Lists.md",
     "LeetCode/Stack/NeetCode150/20 - Valid Parentheses.md",
     "LeetCode/Trees/NeetCode150/572 - Subtree of Another Tree.md",
-    "LeetCode/Trees/NeetCode150/543 - Diameter of a Binary Tree.md",
-    "LeetCode/Trees/NeetCode150/226 - Invert Binary Tree.md",
-    "LeetCode/Trees/NeetCode150/110 - Balanced Binary Tree.md"
+    "LeetCode/Trees/NeetCode150/543 - Diameter of a Binary Tree.md"
   ]
 }
