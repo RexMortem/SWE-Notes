@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/BinarySearch/3453 - Separate Squares I.md",
+                "file": "LeetCode/Sorting/1877 - Minimize Maximum Pair Sum in Array Solved.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3453 - Separate Squares I"
+              "title": "1877 - Minimize Maximum Pair Sum in Array Solved"
             }
           }
         ],
@@ -211,8 +211,18 @@
   },
   "active": "e78de067e5012fe3",
   "lastOpenFiles": [
-    "Rust/Ownership.md",
+    "Probability/Probability & Markets.md",
+    "LeetCode/LinkedLists/NeetCode150/206 - Reverse Linked List.md",
+    "LeetCode/LinkedLists/NeetCode150/141 - Linked List Cycle.md",
+    "LeetCode/Sorting/1877 - Minimize Maximum Pair Sum in Array Solved.md",
+    "LeetCode/Sorting/1984 - Minimum Difference Between Highest and Lowest of K Scores.md",
+    "LeetCode/To-Do LC Notes.md",
+    "LeetCode/Sorting",
+    "SWE Notes.md",
+    "Probability",
+    "LeetCode/BitManipulation/Bit Tricks.md",
     "LeetCode/BinarySearch/3453 - Separate Squares I.md",
+    "Rust/Ownership.md",
     "LeetCode/BinarySearch",
     "LeetCode/Backtracking/NeetCode150/46 - Permutations.md",
     "Rust",
@@ -227,25 +237,15 @@
     "LeetCode/Stack/NeetCode150",
     "LeetCode/BitManipulation/NeetCode150/136 - Single Number.md",
     "LeetCode/LinkedLists/NeetCode150",
-    "SWE Notes.md",
     "LeetCode/BitManipulation/NeetCode150",
-    "LeetCode/Backtracking/NeetCode150",
     "Python/To-Do Python Notes.md",
     "Python/Scoping.md",
     "Python/Objects.md",
     "Python/Call by Reference or Value.md",
     "LeetCode/Trees/Common Tree Traversals and Tricks.md",
-    "LeetCode/To-Do LC Notes.md",
-    "LeetCode/BitManipulation/NeetCode150/Bit Tricks.md",
     "LeetCode/BitManipulation/NeetCode150/191 - Number of 1 Bits.md",
-    "LeetCode/NeetCode150",
     "LeetCode/TwoPointers/NeetCode150/125 - Valid Palindrome.md",
     "LeetCode/LinkedLists/NeetCode150/19 - Remove Nth Node From End of List.md",
-    "LeetCode/LinkedLists/NeetCode150/143 - Reorder List.md",
-    "LeetCode/LinkedLists/NeetCode150/141 - Linked List Cycle.md",
-    "LeetCode/LinkedLists/NeetCode150/21 - Merge Two Sorted Lists.md",
-    "LeetCode/Stack/NeetCode150/20 - Valid Parentheses.md",
-    "LeetCode/Trees/NeetCode150/572 - Subtree of Another Tree.md",
-    "LeetCode/Trees/NeetCode150/543 - Diameter of a Binary Tree.md"
+    "LeetCode/LinkedLists/NeetCode150/143 - Reorder List.md"
   ]
 }
