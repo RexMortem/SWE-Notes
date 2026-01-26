@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Sorting/1877 - Minimize Maximum Pair Sum in Array Solved.md",
+                "file": "LeetCode/Sorting/1200 - Minimum Absolute Difference.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1877 - Minimize Maximum Pair Sum in Array Solved"
+              "title": "1200 - Minimum Absolute Difference"
             }
           }
         ],
@@ -211,10 +211,11 @@
   },
   "active": "e78de067e5012fe3",
   "lastOpenFiles": [
+    "LeetCode/Sorting/1877 - Minimize Maximum Pair Sum in Array Solved.md",
+    "LeetCode/Sorting/1200 - Minimum Absolute Difference.md",
     "Probability/Probability & Markets.md",
     "LeetCode/LinkedLists/NeetCode150/206 - Reverse Linked List.md",
     "LeetCode/LinkedLists/NeetCode150/141 - Linked List Cycle.md",
-    "LeetCode/Sorting/1877 - Minimize Maximum Pair Sum in Array Solved.md",
     "LeetCode/Sorting/1984 - Minimum Difference Between Highest and Lowest of K Scores.md",
     "LeetCode/To-Do LC Notes.md",
     "LeetCode/Sorting",
@@ -245,7 +246,6 @@
     "LeetCode/Trees/Common Tree Traversals and Tricks.md",
     "LeetCode/BitManipulation/NeetCode150/191 - Number of 1 Bits.md",
     "LeetCode/TwoPointers/NeetCode150/125 - Valid Palindrome.md",
-    "LeetCode/LinkedLists/NeetCode150/19 - Remove Nth Node From End of List.md",
-    "LeetCode/LinkedLists/NeetCode150/143 - Reorder List.md"
+    "LeetCode/LinkedLists/NeetCode150/19 - Remove Nth Node From End of List.md"
   ]
 }
