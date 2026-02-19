@@ -1,6 +1,6 @@
 Idea for in-place: shuffle the integers 4 at a time. Then do this shuffling layer by layer. 
 
-> [!success]- Solution
+> [!success]- Solution via shuffling (layer by layer)
 > ```python
 > class Solution:
 >     def rotate(self, matrix: List[List[int]]) -> None:
