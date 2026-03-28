@@ -20,7 +20,7 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/
 >         mLength = 0
 >         cChars = set()
 > 
->         while (l <= r) and (r < len(s)):
+>         for r in range(len(s)):
 >             # remove from cChars and update left pointer until none
 >             while s[r] in cChars:
 >                 cChars.remove(s[l])
